@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap');
+
 * {
   text-align: center;
   line-height: 1.5;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 .App {
@@ -25,7 +28,7 @@
   
 }
 .App-download-container img {
-  height: 45px;
+  height: 55px;
   margin: 10px;
 }
 .App-download-container img:hover {
@@ -46,15 +49,15 @@
   display: grid;
   grid-template-columns: repeat(6, auto);
   width: 80%;
-  margin: 20px auto 50px auto;
+  margin: 30px auto 50px auto;
 }
 .App-county-item {
-  max-width: 100px;
+  max-width: 120px;
   
 }
 .App-county-item p {
   margin: 0;
-  font-size: 16px;
+  font-size: 18px;
   color: #6E4D76;
   
 }

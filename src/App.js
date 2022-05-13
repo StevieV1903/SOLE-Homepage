@@ -37,13 +37,13 @@ const SoleHomepage = () => {
               <div className="App-county-item">
                 <a href="">
                   <img src={DunbarMapIcon} className="App-county-logo" alt="Dunbar" />
-                  <p>Dunbar</p> 
+                  <p>Dunbar and East Linton</p> 
                 </a>
               </div>
               <div className="App-county-item">
                 <a href="">
                   <img src={HaddingtonMapIcon} className="App-county-logo" alt="Dunbar" />
-                  <p>Haddington</p> 
+                  <p>Haddington and Lammermuir</p> 
                 </a>
               </div>
               <div className="App-county-item">
@@ -55,19 +55,19 @@ const SoleHomepage = () => {
               <div className="App-county-item">
                 <a href="">
                   <img src={NBMapIcon} className="App-county-logo" alt="Dunbar" />
-                  <p>North Berwick</p> 
+                  <p>North Berwick Coastal</p> 
                 </a>
               </div>
               <div className="App-county-item">
                 <a href="">
                   <img src={PrestonMapIcon} className="App-county-logo" alt="Dunbar" />
-                  <p>Preston Seton Gosford</p> 
+                  <p>Preston, Seton and Gosford</p> 
                 </a>
               </div>
               <div className="App-county-item">
                 <a href="">
                   <img src={TranentMapIcon} className="App-county-logo" alt="Dunbar" />
-                  <p>Tranent</p> 
+                  <p>Fa'side</p> 
                 </a>
               </div>
               
