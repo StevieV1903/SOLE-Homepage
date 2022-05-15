@@ -36,36 +36,42 @@ const SoleHomepage = () => {
           <div className="App-county-container">
               <div className="App-county-item">
                 <a href="">
+                  {/* link to Dunbar town home page */}
                   <img src={DunbarMapIcon} className="App-county-logo" alt="Dunbar" />
                   <p>Dunbar and East Linton</p> 
                 </a>
               </div>
               <div className="App-county-item">
                 <a href="">
+                   {/* link to Haddington town home page */}
                   <img src={HaddingtonMapIcon} className="App-county-logo" alt="Dunbar" />
                   <p>Haddington and Lammermuir</p> 
                 </a>
               </div>
               <div className="App-county-item">
                 <a href="">
+                   {/* link to Musselburgh town home page */}
                   <img src={MusselburghMapIcon} className="App-county-logo" alt="Dunbar" />
                   <p>Musselburgh</p> 
                 </a>
               </div>
               <div className="App-county-item">
                 <a href="">
+                   {/* link to North Berwick town home page */}
                   <img src={NBMapIcon} className="App-county-logo" alt="Dunbar" />
                   <p>North Berwick Coastal</p> 
                 </a>
               </div>
               <div className="App-county-item">
                 <a href="">
+                   {/* link to Preston Seton Gosford town home page */}
                   <img src={PrestonMapIcon} className="App-county-logo" alt="Dunbar" />
                   <p>Preston, Seton and Gosford</p> 
                 </a>
               </div>
               <div className="App-county-item">
                 <a href="">
+                   {/* link to Tranent town home page */}
                   <img src={TranentMapIcon} className="App-county-logo" alt="Dunbar" />
                   <p>Fa'side</p> 
                 </a>
@@ -79,20 +85,4 @@ const SoleHomepage = () => {
 }
 
 export default SoleHomepage;
-
-
-
- 
-
-// Dunbar and East Linton
-
-// Haddington and Lammermuir
-
-// Musselburgh
-
-// North Berwick Coastal
-
-// Preston, Seton and Gosford
-
-// Fa’side
 
