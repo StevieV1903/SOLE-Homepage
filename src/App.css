@@ -4,33 +4,36 @@
   text-align: center;
   line-height: 2;
   font-family: 'Source Sans Pro', sans-serif;
+  /* This font-family is imported from Google fonts. */
 }
 
-.App {
-  
+.App { 
   background-color: white;
   min-height: 100vh;
   color: #6E4D76;
 }
 
 .App-header img {
-  width: 100%;
-  
+  width: 100vw; 
 }
+
 .App-main {
 
 }
+
 .App-download-container {
-  margin: 15px 0px;
-  
+  margin: 15px 0px; 
 }
+
 .App-download-container img {
-  height: 55px;
+  height: 50px;
   margin: 10px;
 }
+
 .App-download-container img:hover {
   cursor: pointer;
 }
+
 .App button {
   padding: 10px 20px;
   background-color: #6E4D76;
@@ -40,31 +43,34 @@
   cursor: pointer;
   margin: 15px 0px;
 }
+
 .App button:hover {
   background-color: #493557;
 }
+
 .App-county-container {
   display: grid;
   grid-template-columns: repeat(6, auto);
   width: 80vw;
   margin: 30px auto 50px auto;
 }
+
 .App-county-item {
-  max-width: 120px;
-  
+  max-width: 125px; 
 }
+
 .App-county-item p {
   margin: 0;
   font-size: 16px;
   color: #6E4D76;
   line-height: normal;
-  
 }
+
 .App-county-item a {
   margin: 0;
   text-decoration: none;
-  
 }
+
 .App-county-logo {
-  height: 100px;
+  height: 125px;
 }

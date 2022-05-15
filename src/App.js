@@ -10,7 +10,9 @@ import MusselburghMapIcon from "./assets/MusselMapIcon.png";
 import TranentMapIcon from "./assets/FaSideMapIcon.png";
 
 const SoleHomepage = () => {
+  
   return (
+    
     <div className="App">
       <header className="App-header">
         <img src={Header} alt="SOLE map header" />
@@ -29,7 +31,7 @@ const SoleHomepage = () => {
               {/* line 20 to link to Google Play Store URL */}
             </div>
 
-          <p>Local businesses now have the chance to trade together online to their community as well as in their physical spaces. If you’re a business the register here:</p>
+          <p>Local businesses now have the chance to trade together online to their community as well as in their physical spaces. If you’re a business you can register here:</p>
           <button>Register Now</button>
           {/* line 26 to link to registration page */}
           <h3>SOLE is available for the following East Lothian regions:</h3>
@@ -75,11 +77,10 @@ const SoleHomepage = () => {
                   <img src={TranentMapIcon} className="App-county-logo" alt="Dunbar" />
                   <p>Fa'side</p> 
                 </a>
-              </div>
-              
-              
+              </div> 
           </div>
       </main>
+      {/* Application FOOTER component code will need to be added here. */}
     </div>
   );
 }
