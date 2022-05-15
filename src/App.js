@@ -25,9 +25,9 @@ const SoleHomepage = () => {
           <p>The SOLE app is packed with special offers, competitions and promotions.</p>
 
             <div className="App-download-container">
-              <img src={AppStoreBtn} alt="Apple Store download"  />
+              <img src={AppStoreBtn} alt="Apple Store download button"  />
               {/* link to Apple App Store URL */}
-              <img src={GooglePlayBtn} alt="Google Play Store download"  />
+              <img src={GooglePlayBtn} alt="Google Play Store download button"  />
               {/* link to Google Play Store URL */}
             </div>
 
@@ -39,42 +39,42 @@ const SoleHomepage = () => {
               <div className="App-county-item">
                 <a href="">
                   {/* link to Dunbar town home page */}
-                  <img src={DunbarMapIcon} className="App-county-logo" alt="Dunbar" />
+                  <img src={DunbarMapIcon} className="App-county-logo" alt="Dunbar map icon" />
                   <p>Dunbar and East Linton</p> 
                 </a>
               </div>
               <div className="App-county-item">
                 <a href="">
                    {/* link to Haddington town home page */}
-                  <img src={HaddingtonMapIcon} className="App-county-logo" alt="Dunbar" />
+                  <img src={HaddingtonMapIcon} className="App-county-logo" alt="Haddington map icon" />
                   <p>Haddington and Lammermuir</p> 
                 </a>
               </div>
               <div className="App-county-item">
                 <a href="">
                    {/* link to Musselburgh town home page */}
-                  <img src={MusselburghMapIcon} className="App-county-logo" alt="Dunbar" />
+                  <img src={MusselburghMapIcon} className="App-county-logo" alt="Musselburgh map icon" />
                   <p>Musselburgh</p> 
                 </a>
               </div>
               <div className="App-county-item">
                 <a href="">
                    {/* link to North Berwick town home page */}
-                  <img src={NBMapIcon} className="App-county-logo" alt="Dunbar" />
+                  <img src={NBMapIcon} className="App-county-logo" alt="North Berwick map icon" />
                   <p>North Berwick Coastal</p> 
                 </a>
               </div>
               <div className="App-county-item">
                 <a href="">
                    {/* link to Preston Seton Gosford town home page */}
-                  <img src={PrestonMapIcon} className="App-county-logo" alt="Dunbar" />
+                  <img src={PrestonMapIcon} className="App-county-logo" alt="Prestonpans map icon" />
                   <p>Preston, Seton and Gosford</p> 
                 </a>
               </div>
               <div className="App-county-item">
                 <a href="">
                    {/* link to Tranent town home page */}
-                  <img src={TranentMapIcon} className="App-county-logo" alt="Dunbar" />
+                  <img src={TranentMapIcon} className="App-county-logo" alt="Tranent map icon" />
                   <p>Fa'side</p> 
                 </a>
               </div> 
