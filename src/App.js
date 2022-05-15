@@ -26,14 +26,14 @@ const SoleHomepage = () => {
 
             <div className="App-download-container">
               <img src={AppStoreBtn} alt="Apple Store download"  />
-              {/* line 19 to link to Apple App Store URL */}
+              {/* link to Apple App Store URL */}
               <img src={GooglePlayBtn} alt="Google Play Store download"  />
-              {/* line 20 to link to Google Play Store URL */}
+              {/* link to Google Play Store URL */}
             </div>
 
           <p>Local businesses now have the chance to trade together online to their community as well as in their physical spaces. If you’re a business you can register here:</p>
           <button>Register Now</button>
-          {/* line 26 to link to registration page */}
+          {/* link to business registration page */}
           <h3>SOLE is available for the following East Lothian regions:</h3>
           <div className="App-county-container">
               <div className="App-county-item">

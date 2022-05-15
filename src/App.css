@@ -51,12 +51,14 @@
 .App-county-container {
   display: grid;
   grid-template-columns: repeat(6, auto);
-  width: 80vw;
-  margin: 30px auto 50px auto;
+  grid-gap: 15px;
+  justify-content: center;
+  width: 90vw;
+  margin: 20px auto 50px auto;
 }
 
 .App-county-item {
-  max-width: 125px; 
+  max-width: 140px; 
 }
 
 .App-county-item p {
