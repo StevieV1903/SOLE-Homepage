@@ -1,7 +1,7 @@
 import './App.css';
 import AppStoreBtn from "./assets/AppleStore.png";
 import GooglePlayBtn from "./assets/GoogleStore.png";
-import Header from "./assets/SOLEMapHeader.png";
+import Header from "./assets/SOLEMapHeader2.png";
 import DunbarMapIcon from "./assets/DunbarMapIcon.png";
 import PrestonMapIcon from "./assets/PrestonMapIcon.png";
 import NBMapIcon from "./assets/NBMapIcon.png";
