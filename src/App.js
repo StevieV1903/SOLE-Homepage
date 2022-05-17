@@ -12,7 +12,7 @@ import TranentMapIcon from "./assets/FaSideMapIcon.png";
 const SoleHomepage = () => {
   
   return (
-    
+    // HTML code below to be integrated into the main application
     <div className="App">
       <header className="App-header">
         <img src={Header} alt="SOLE map header" />
@@ -80,7 +80,7 @@ const SoleHomepage = () => {
               </div> 
           </div>
       </main>
-      {/* Application FOOTER component code will need to be added here. */}
+      {/* Application FOOTER component HTML code will need to be added here. */}
     </div>
   );
 }
