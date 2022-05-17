@@ -19,7 +19,7 @@ const SoleHomepage = () => {
       </header>
       <main className="App-main">
         <h1>Welcome to SOLE</h1>
-          <p>SOLE is an app for your East Lothian community.</p>
+          <p>SOLE is an app for the East Lothian community.</p>
           <p>SOLE provides an easy-to-use online shopping and community experience to rediscover and connect with local shops, services and amenities.</p>
           <p>Download the app today to browse and shop, book activities or events, find a local service, join a group, keep up with local news or go on a trail.</p>
           <p>The SOLE app is packed with special offers, competitions and promotions.</p>
@@ -31,7 +31,8 @@ const SoleHomepage = () => {
               {/* link to Google Play Store URL */}
             </div>
 
-          <p>Local businesses now have the chance to trade together online to their community as well as in their physical spaces. If you’re a business you can register here:</p>
+          <p>Local businesses now have the chance to trade together online to their community as well as in their physical spaces. </p>
+            <p>If you’re a business you can register here:</p>
           <button>Register Now</button>
           {/* link to business registration page */}
           <h3>SOLE is available for the following East Lothian regions:</h3>
