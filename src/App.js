@@ -32,7 +32,7 @@ const SoleHomepage = () => {
             </div>
 
           <p>Local businesses now have the chance to trade together online to their community as well as in their physical spaces. </p>
-            <p>If you’re a business you can register here:</p>
+          <p>If you are a business you can register here:</p>
           <button>Register Now</button>
           {/* link to business registration page */}
           <h3>SOLE is available for the following East Lothian regions:</h3>

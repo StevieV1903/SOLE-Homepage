@@ -16,8 +16,8 @@
 
 .App-header img {
   width: 100vw; 
-  /* border-bottom: solid 1px #6E4D76;  */
 }
+
 .App-main {
   padding: 0 15px 20px 15px;
 }
@@ -79,6 +79,8 @@
   height: 125px;
 }
 
+/* RESPONSIVE RULES FOR VIEWING ON MOBILE DEVICES */
+
 @media screen and (max-width: 840px) {
   .App-county-container {
     display: grid;
@@ -99,6 +101,4 @@
     height: auto;
     margin: 10px auto;
   }
-
-
 }
